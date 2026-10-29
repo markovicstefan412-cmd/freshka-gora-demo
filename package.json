@@ -1,0 +1,10 @@
+{
+  "name": "freshka-gora-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Freshka Gora, demo e-prodavnica (statički sajt za GitHub Pages)",
+  "scripts": {
+    "build": "node build.mjs",
+    "start": "node build.mjs && node serve.mjs"
+  }
+}
