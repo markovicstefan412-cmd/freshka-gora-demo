@@ -1,5 +1,7 @@
 # Freshka Gora, demo e-prodavnica
 
+Uživo: https://markovicstefan412-cmd.github.io/freshka-gora-demo/
+
 Statički sajt (HTML, CSS, JavaScript) napravljen po dizajnu „Freshka Gora redizajn“. Korpa, omiljeni, pretraga, filteri i porudžbina rade u pregledaču, bez baze. Porudžbine i poruke se nigde ne šalju (demo).
 
 ## Pokretanje
